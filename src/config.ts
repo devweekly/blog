@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://astro-paper.pages.dev/",
   author: "SW",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "My personal blog",
+  title: "My blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 7,
@@ -25,5 +25,5 @@ export const SOCIALS: SocialObjects = [
     href: "https://github.com/dalian-js",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
-  }
+  },
 ];
