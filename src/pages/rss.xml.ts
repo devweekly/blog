@@ -16,6 +16,7 @@ export async function get() {
       title: data.title,
       description: data.description,
       pubDate: new Date(data.pubDatetime),
+      content: data.content,
     })),
   });
 }
