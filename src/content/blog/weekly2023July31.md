@@ -9,12 +9,12 @@ tags:
 
 [向量数据库](https://guangzhengli.com/blog/zh/vector-database/)
 
-[Chrome 浏览器运行原理你了解多少？](https://mp.weixin.qq.com/s/wjrcO2Ej7BEThWVsCnXEtA) 来自字节前端
+[Chrome 浏览器运行原理你了解多少？]<https://mp.weixin.qq.com/s/wjrcO2Ej7BEThWVsCnXEtA> 来自字节前端
 
-[highlight - open source, full-stack monitoring platform](https://github.com/highlight/highlight)
+[highlight - open source, full-stack monitoring platform]<https://github.com/highlight/highlight>
 
-[Kubeflow将MLOps引入CNCF孵化器](https://mp.weixin.qq.com/s/8bZr2Edmyh-unE5ghIBhJg)
+[Kubeflow将MLOps引入CNCF孵化器]<https://mp.weixin.qq.com/s/8bZr2Edmyh-unE5ghIBhJg>
 
-[JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify](https://github.com/privatenumber/minification-benchmarks)
+[JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, etc]<https://github.com/privatenumber/minification-benchmarks>
 
-[使用 WebP 图像](https://web.dev/serve-images-webp/) 看上去可以做个项目简化这个操作
+[使用 WebP 图像]<https://web.dev/serve-images-webp/> 看上去可以做个项目简化这个操作
