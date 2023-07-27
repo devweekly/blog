@@ -7,12 +7,6 @@ const getSortedPosts = (posts: CollectionEntry<"blog">[]) =>
       (a, b) =>
         Math.floor(new Date(b.data.pubDatetime).getTime() / 1000) -
         Math.floor(new Date(a.data.pubDatetime).getTime() / 1000)
-    )
-    .every(item => {
-      return {
-        ...item,
-        content: item.render(),
-      };
-    });
+    );
 
 export default getSortedPosts;
