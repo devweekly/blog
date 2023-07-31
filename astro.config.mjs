@@ -7,7 +7,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://techweekly.pages.dev/", // replace this with your deployed domain
+  site: "https://devweekly.github.io", // replace this with your deployed domain
   integrations: [
     tailwind({
       config: {
