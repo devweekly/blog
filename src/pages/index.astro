@@ -33,7 +33,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
             ({ data }, index) =>
               index < 4 && (
                 <Card
-                  href={`/blog/posts/${slugify(data)}`}
+                  href={`/posts/${slugify(data)}`}
                   frontmatter={data}
                   secHeading={false}
                 />
